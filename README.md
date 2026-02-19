@@ -1,3 +1,3 @@
 # GoFlip
 
-Flashcard web app
+Flashcard web app.
