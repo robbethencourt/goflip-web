@@ -1,0 +1,21 @@
+{
+  "name": "goflip-web",
+  "version": "1.0.0",
+  "description": "flashcard web app",
+  "main": "main.js",
+  "scripts": {
+    "test": "elm-test",
+    "dev": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbethencourt/goflip-web.git"
+  },
+  "author": "rob bethencourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbethencourt/goflip-web/issues"
+  },
+  "homepage": "https://github.com/robbethencourt/goflip-web#readme"
+}
